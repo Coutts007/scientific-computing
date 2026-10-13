@@ -22,3 +22,4 @@ pip install -r requirements.txt
 | Task | Topic | File |
 |------|-------|------|
 | A | NumPy Arrays and Numerical Computation | `code/Task_02_numpy_arrays.py` |
+| B | Mathematical Functions and Vectorization | `code/Task_03_vectorization.py` |
