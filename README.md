@@ -26,3 +26,4 @@ pip install -r requirements.txt
 | C | Floating-Point Arithmetic and Numerical Errors | `code/Task_04_numerical_errors.py` |
 | D | Matrix Algebra and Matrix Operations | `code/Task_05_matrix_algebra.py` |
 | E | Solution of Systems of Linear Equations | `code/Task_06_linear_systems.py` |
+| F | Gaussian Elimination and LU Decomposition | `code/Task_07_gaussian_lu.py` |
