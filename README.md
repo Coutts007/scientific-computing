@@ -29,3 +29,4 @@ pip install -r requirements.txt
 | F | Gaussian Elimination and LU Decomposition | `code/Task_07_gaussian_lu.py` |
 | G | Iterative Methods for Linear Systems | `code/Task_08_iterative_linear.py` |
 | H | Eigenvalues and Eigenvectors | `code/Task_09_eigenvalues.py` |
+| I | Root Finding: Bisection and Fixed-Point Methods | `code/Task_10_bisection_fixed_point.py` |
