@@ -27,3 +27,4 @@ pip install -r requirements.txt
 | D | Matrix Algebra and Matrix Operations | `code/Task_05_matrix_algebra.py` |
 | E | Solution of Systems of Linear Equations | `code/Task_06_linear_systems.py` |
 | F | Gaussian Elimination and LU Decomposition | `code/Task_07_gaussian_lu.py` |
+| G | Iterative Methods for Linear Systems | `code/Task_08_iterative_linear.py` |
