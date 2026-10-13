@@ -30,3 +30,4 @@ pip install -r requirements.txt
 | G | Iterative Methods for Linear Systems | `code/Task_08_iterative_linear.py` |
 | H | Eigenvalues and Eigenvectors | `code/Task_09_eigenvalues.py` |
 | I | Root Finding: Bisection and Fixed-Point Methods | `code/Task_10_bisection_fixed_point.py` |
+| J | Root Finding: Newton-Raphson and Secant Methods | `code/Task_11_newton_secant.py` |
