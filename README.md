@@ -1,0 +1,24 @@
+# BIT 2118 Scientific Computing – Individual Repository
+
+Solutions to Tasks A–S of the BIT 2118 Scientific Computing group work.
+Each task is in its own file under `code/`. Each file's docstring and comments
+cover the assignment instructions:
+
+- **B** – the input values and the mathematical operations performed
+- **C** – an input/parameter that was changed, and how the result changed
+- **D** – what the output means, including how to read the graph where there is one
+- **E** – a related real-world case, with its assumptions, input data, output and interpretation
+
+## Setup
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+## Tasks
+
+| Task | Topic | File |
+|------|-------|------|
+| A | NumPy Arrays and Numerical Computation | `code/Task_02_numpy_arrays.py` |
