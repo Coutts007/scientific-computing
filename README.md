@@ -24,3 +24,4 @@ pip install -r requirements.txt
 | A | NumPy Arrays and Numerical Computation | `code/Task_02_numpy_arrays.py` |
 | B | Mathematical Functions and Vectorization | `code/Task_03_vectorization.py` |
 | C | Floating-Point Arithmetic and Numerical Errors | `code/Task_04_numerical_errors.py` |
+| D | Matrix Algebra and Matrix Operations | `code/Task_05_matrix_algebra.py` |
