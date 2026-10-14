@@ -35,3 +35,4 @@ pip install -r requirements.txt
 | L | Interpolation | `code/Task_13_interpolation.py` |
 | M | Curve Fitting and Approximation | `code/Task_14_curve_fitting.py` |
 | N | Numerical Differentiation | `code/Task_15_numerical_differentiation.py` |
+| O | Numerical Integration | `code/Task_16_numerical_integration.py` |
