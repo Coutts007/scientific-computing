@@ -36,3 +36,4 @@ pip install -r requirements.txt
 | M | Curve Fitting and Approximation | `code/Task_14_curve_fitting.py` |
 | N | Numerical Differentiation | `code/Task_15_numerical_differentiation.py` |
 | O | Numerical Integration | `code/Task_16_numerical_integration.py` |
+| P | Ordinary Differential Equations – Euler Method | `code/Task_17_euler_ode.py` |
