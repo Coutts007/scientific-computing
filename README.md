@@ -33,3 +33,4 @@ pip install -r requirements.txt
 | J | Root Finding: Newton-Raphson and Secant Methods | `code/Task_11_newton_secant.py` |
 | K | Polynomial and Nonlinear Equation Solving | `code/Task_12_nonlinear_equations.py` |
 | L | Interpolation | `code/Task_13_interpolation.py` |
+| M | Curve Fitting and Approximation | `code/Task_14_curve_fitting.py` |
