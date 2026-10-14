@@ -37,3 +37,4 @@ pip install -r requirements.txt
 | N | Numerical Differentiation | `code/Task_15_numerical_differentiation.py` |
 | O | Numerical Integration | `code/Task_16_numerical_integration.py` |
 | P | Ordinary Differential Equations – Euler Method | `code/Task_17_euler_ode.py` |
+| Q | Numerical Solution of ODEs Using SciPy | `code/Task_18_scipy_ode.py` |
