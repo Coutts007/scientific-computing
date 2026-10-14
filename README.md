@@ -34,3 +34,4 @@ pip install -r requirements.txt
 | K | Polynomial and Nonlinear Equation Solving | `code/Task_12_nonlinear_equations.py` |
 | L | Interpolation | `code/Task_13_interpolation.py` |
 | M | Curve Fitting and Approximation | `code/Task_14_curve_fitting.py` |
+| N | Numerical Differentiation | `code/Task_15_numerical_differentiation.py` |
