@@ -39,3 +39,4 @@ pip install -r requirements.txt
 | P | Ordinary Differential Equations – Euler Method | `code/Task_17_euler_ode.py` |
 | Q | Numerical Solution of ODEs Using SciPy | `code/Task_18_scipy_ode.py` |
 | R | Numerical Optimization | `code/Task_19_optimization.py` |
+| S | Random Numbers and Monte Carlo Methods | `code/Task_20_monte_carlo.py` |
