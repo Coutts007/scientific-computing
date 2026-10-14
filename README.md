@@ -38,3 +38,4 @@ pip install -r requirements.txt
 | O | Numerical Integration | `code/Task_16_numerical_integration.py` |
 | P | Ordinary Differential Equations – Euler Method | `code/Task_17_euler_ode.py` |
 | Q | Numerical Solution of ODEs Using SciPy | `code/Task_18_scipy_ode.py` |
+| R | Numerical Optimization | `code/Task_19_optimization.py` |
